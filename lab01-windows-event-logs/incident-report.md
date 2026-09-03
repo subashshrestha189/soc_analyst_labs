@@ -1,6 +1,6 @@
 **SOC Incident Report**
 
-**Alert Name: **Multiple Failed Logon Attempts Followed by Successful Authentication – WKSTN-042
+**Alert Name:** Multiple Failed Logon Attempts Followed by Successful Authentication – WKSTN-042
 **Date/Time:** 09:14:02 AM – 09:14:51 AM
 **Severity:** Critical (pending verification)
 **Affected Host:** WKSTN-042
