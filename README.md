@@ -31,4 +31,4 @@ Each lab contains a full write-up, screenshots, and an incident report.
 
 Cybersecurity and AI graduate actively focused on breaking into an entry-level SOC Analyst / Junior Security Analyst role. This repo documents my hands-on lab work as I build practical, demonstrable investigation and detection skills.
 
-**Connect:** [LinkedIn](www.linkedin.com/in/mrsubash) · [Email](subashstha775@gmail.com)
+**Connect:** [LinkedIn](https://www.linkedin.com/in/mrsubash) · [Email](subashstha775@gmail.com)
