@@ -6,12 +6,12 @@ Each lab contains a full write-up, screenshots, and an incident report.
 
 | # | Lab | Skills Demonstrated | Status |
 | :--- | :--- | :--- | :--- |
-| **01** | Windows Event Log Analysis | Windows Security logs, logon types, brute-force detection, MITRE ATT&CK mapping | Complete |
-| **02** | Linux Log Analysis | syslog/auth.log, SSH brute-force detection | Complete |
-| **03** | Sysmon Deployment | Process/network telemetry, endpoint visibility | In Progress |
-| **04** | Core Lab Network Build | Attacker/victim network, isolated lab design | Planned |
-| **05** | Wazuh SIEM Deployment | Centralized log collection, correlation rules | Planned |
-| **06** | Log Forwarding & Correlation | Detection engineering basics | Planned |
+| **01** | Windows Event Log Analysis | Windows Security logs, logon types, brute-force detection, MITRE ATT&CK mapping | Completed |
+| **02** | Linux Log Analysis | syslog/auth.log, SSH brute-force detection | Completed |
+| **03** | Sysmon Deployment | Process/network telemetry, endpoint visibility | Completed |
+| **04** | Core Lab Network Build | Attacker/victim network, isolated lab design | Completed |
+| **05** | Wazuh SIEM Deployment | Centralized log collection, correlation rules | Completed |
+| **06** | Log Forwarding & Correlation | Detection engineering basics | In Progress |
 | **07** | Network Traffic Analysis | Wireshark, Zeek, packet investigation | Planned |
 | **08** | IDS/IPS with Suricata | Signature-based detection | Planned |
 | **09** | Phishing & Email Analysis | Header analysis, IOC extraction | Planned |
