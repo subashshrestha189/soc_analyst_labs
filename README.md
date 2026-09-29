@@ -11,8 +11,8 @@ Each lab contains a full write-up, screenshots, and an incident report.
 | **03** | Sysmon Deployment | Process/network telemetry, endpoint visibility | Completed |
 | **04** | Core Lab Network Build | Attacker/victim network, isolated lab design | Completed |
 | **05** | Wazuh SIEM Deployment | Centralized log collection, correlation rules | Completed |
-| **06** | Log Forwarding & Correlation | Detection engineering basics | In Progress |
-| **07** | Network Traffic Analysis | Wireshark, Zeek, packet investigation | Planned |
+| **06** | Log Forwarding & Correlation | Detection engineering basics | Completed |
+| **07** | Network Traffic Analysis | Wireshark, Zeek, packet investigation | In Progress |
 | **08** | IDS/IPS with Suricata | Signature-based detection | Planned |
 | **09** | Phishing & Email Analysis | Header analysis, IOC extraction | Planned |
 | **10** | Threat Intel & MITRE ATT&CK | Structured attacker behavior mapping | Planned |
