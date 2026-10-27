@@ -13,9 +13,9 @@ Each lab contains a full write-up, screenshots, and an incident report.
 | **05** | Wazuh SIEM Deployment | Centralized log collection, correlation rules | Completed |
 | **06** | Log Forwarding & Correlation | Detection engineering basics | Completed |
 | **07** | Network Traffic Analysis | Wireshark, Zeek, packet investigation | Completed |
-| **08** | IDS/IPS with Suricata | Signature-based detection | In Progress |
-| **09** | Phishing & Email Analysis | Header analysis, IOC extraction | Planned |
-| **10** | Threat Intel & MITRE ATT&CK | Structured attacker behavior mapping | Planned |
+| **08** | IDS/IPS with Suricata | Signature-based detection | Completed |
+| **09** | Phishing & Email Analysis | Header analysis, IOC extraction | Completed |
+| **10** | Threat Intel & MITRE ATT&CK | Structured attacker behavior mapping | In Progress |
 | **11** | Active Directory Attack Simulation | Enterprise detection | Planned |
 | **12** | Full Incident Response Capstone | End-to-end investigation & reporting | Planned |
 
