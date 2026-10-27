@@ -13,7 +13,7 @@ Analysis host: Kali Linux (emails handled as plain text only)
 Samples: a legitimate email (baseline), a sample phishing email (phish-sample.eml) which uses reserved fake
 domains (.example, .test) and another legitimate bulk email (an Amazon welcome message) used to test the script
 
-Tools: less/cat, python 3 standard library (phish_triage.py)
+Tools: less/cat, python 3 standard library phish_triage1.py and phish_triage2.py (after tuning)
 
 **Methodology**
 
@@ -22,7 +22,7 @@ Tools: less/cat, python 3 standard library (phish_triage.py)
 2. Analyzed a training phishing email (phish-sample.eml) by hand: compared From, Return-Path, and Reply-To domains;
    read Authentication-Results; read Received header chain bottom-up; compared visible link text with real href;
    checked X-Mailer, Message-ID, and timestamps converted to UTC.
-3. Built phish_triage.py, a standard-library Python script that parses an .eml as text and generates a list
+3. Built phish_triage1.py and phish_triage2 (tuning), a standard-library Python script that parses an .eml as text and generates a list
    of sender domain mismatches, authentication results, the Received header chain with private/public IP
    labels and UTC times, link text versus real destination.
 4. Tested the script on a real email and it produced a false positive (score 25, higher than phishing
